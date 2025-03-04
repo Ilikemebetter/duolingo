@@ -1,1 +1,1 @@
-# trilingo
+# Trilingo
